@@ -1,14 +1,15 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat|Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Muli');
 
 body {
     margin: 0 auto;
     background-color: #c9c9c9;
-    font-family: 'Muli', sans-serif;
-    font-size: 48px;
-
 }
 
 h1 {
     font-family: 'Montserrat', sans-serif;
 }
-
+p {
+font-family: 'Muli', sans-serif;
+font-size: 48px;
+}
